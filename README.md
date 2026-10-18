@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Hao Yi 👋
 
-<!--
-**goodyi666/goodyi666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science undergraduate at Zhengzhou University  
+🔬 EEG & Brain-Computer Interface Research  
+🤖 Interested in Deep Learning and Embodied AI
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science undergraduate passionate about artificial intelligence and brain-computer interfaces.
+
+- 🔭 Researching EEG decoding and dynamic neural networks
+- 🧠 Interested in EEG-based emotion recognition and cognitive workload estimation
+- 🌱 Studying deep learning architectures and AI systems
+- 🚀 Exploring efficient inference and embodied intelligence
+
+## 🔬 Research Interests
+
+- Embodied AI
+- EEG Signal Processing
+- Brain-Computer Interfaces (BCI)
+- Dynamic Neural Networks
+- Knowledge Distillation
+- Cognitive Workload Estimation
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C++, Java, SQL
+
+**AI & ML:** PyTorch, scikit-learn, MNE-Python
+
+**Backend & Databases:** Spring Boot, MyBatis, MySQL
+
+**Tools:** Git, GitHub, Codex
+
+## 📚 Current Focus
+
+- Building a solid foundation in deep learning
+- Developing reproducible EEG experiments
+- Strengthening my algorithmic and software engineering skills
+
+## 📫 Connect
+
+- 📧 Email: [iehaoyi@outlook.com](mailto:iehaoyi@outlook.com)
